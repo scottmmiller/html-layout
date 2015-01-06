@@ -1,0 +1,41 @@
+html, body{
+	height: 100%;
+	background: rgb(255,255,255);
+}
+.header-row{
+	background: rgb(216,216,216);
+	height: 10%;
+	padding: 1.5%;
+}
+.header-box{
+	background: rgb(74,144,226);
+	height: 55px;
+	width: 55px;
+}
+.text-row{
+	background: rgb(255,255,255);
+	height: 40%;
+	font-family: sans-serif;
+	margin-top: 10%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+.typed-text{
+	text-align: center;
+}
+.row{
+	height: 15%;
+	width: 100%;
+}
+.blue{
+	background: rgb(74,144,226);
+}
+.green{
+	background: rgb(80,227,194);
+}
+.tan{
+	background: rgb(183,233,134);
+}
+.yellow{
+	background: rgb(248,231,28);
+}
