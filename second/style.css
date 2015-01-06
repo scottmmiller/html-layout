@@ -1,0 +1,37 @@
+html, body{
+	background: #fff;
+	height: 100%;
+}
+.column{
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+.left{
+	background: rgb(74,144,226);
+
+}
+.center{
+	background: rgb(80,227,194);
+
+}
+.right{
+	background: rgb(184,233,134);
+	height: 67%;
+
+}
+.image-holder{
+	background: rgb(208,2,27);
+	vertical-align: bottom;
+	float: left;
+	height: 33%;
+	width: 33%;
+}
+.image-text{
+	color: rgb(241,181,189);
+	font-size: 25 px;
+	font-family: sans-serif;
+	text-align: center;
+	margin-top: 30%;
+}
