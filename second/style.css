@@ -23,15 +23,18 @@ html, body{
 }
 .image-holder{
 	background: rgb(208,2,27);
-	vertical-align: bottom;
 	float: left;
 	height: 33%;
 	width: 33%;
+			/*CENTER TEXT VERTICALLY*/
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	flex-direction: column;
 }
 .image-text{
 	color: rgb(241,181,189);
 	font-size: 25 px;
 	font-family: sans-serif;
 	text-align: center;
-	margin-top: 30%;
 }
